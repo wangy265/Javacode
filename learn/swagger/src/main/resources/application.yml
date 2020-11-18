@@ -3,7 +3,7 @@ swagger:
   description: learning swagger 
   version: 1.0
   terms-of-service-url: http://xxx/
-  base-package: swagger.controller
+  base-package: swagger.controller;
   contact:
     name: wang
     url: http://xxx/
