@@ -17,6 +17,7 @@
 	<modules>
 		<module>basic</module>
 		<module>swagger</module>
+		<module>jredis</module>
 	</modules>
 	
 	<build>
