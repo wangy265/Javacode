@@ -1,0 +1,10 @@
+swagger:
+  title: swagger demo
+  description: learning swagger 
+  version: 1.0
+  terms-of-service-url: http://xxx/
+  base-package: swagger.controller
+  contact:
+    name: wang
+    url: http://xxx/
+    email: java_0722@163.com
